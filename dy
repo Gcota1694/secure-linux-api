@@ -1,0 +1,4 @@
+{
+  "error": "Bad Request",
+  "message": "Se requiere body JSON"
+}

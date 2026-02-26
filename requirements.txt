@@ -1,0 +1,5 @@
+flask>=3.0.0
+flask-limiter>=3.5.0
+PyJWT>=2.8.0
+python-pam>=2.0.2
+gunicorn>=21.2.0
